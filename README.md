@@ -1,9 +1,6 @@
 
 ### Hi there 👋
 
-## ⚠️🏗 Work in progress page
-
-
 <!--
 **SalvoPisciotta/SalvoPisciotta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
